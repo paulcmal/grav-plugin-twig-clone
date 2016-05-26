@@ -1,0 +1,5 @@
+services:
+  twig.clone:
+    class: Drupal\twig_clone\Twig\TwigClone
+    tags:
+      - { name: twig.extension }

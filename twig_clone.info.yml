@@ -1,0 +1,7 @@
+type: module
+name: Twig clone
+description: 'Provides clone function to twig templates.'
+package: Development
+core: 8.x
+tags:
+ - developer
