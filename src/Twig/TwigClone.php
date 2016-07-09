@@ -4,7 +4,7 @@
  * TwigClone implementation.
  */
 
-namespace Drupal\twig_clone\Twig;
+namespace Grav\Plugin\TwigClone;
 
 /**
  * Provides the clone function to twig.
